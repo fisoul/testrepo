@@ -4,6 +4,6 @@
 
 int main()
 {
-    
+    struct a A;
     return 0;
 }
